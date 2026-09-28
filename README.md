@@ -1,1 +1,3 @@
-# Webflyx is my second Boot.dev assignment
+# Webflyx
+
+Webflyx is my second [Boot.dev](https://www.boot.dev) project!
